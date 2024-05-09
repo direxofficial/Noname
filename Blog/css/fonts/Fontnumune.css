@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'BebasNeue';
+    src: url('fonts/BebasNeue-Regular.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('fonts/Caveat-Bold.ttf') format('truetype');
+    font-weight: bolder;
+    font-style: bolder;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Caveat-';
+    src: url('fonts/Caveat-Medium.ttf') format('truetype');
+    font-weight: medium;
+    font-style: medium;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('fonts/Caveat-Regular.ttf') format('truetype');
+    font-weight: italic;
+    font-style: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('fonts/Caveat-SemiBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: bold;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('fonts/Caveat-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
